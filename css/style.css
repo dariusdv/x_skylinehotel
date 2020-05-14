@@ -59,6 +59,16 @@ p {
   color: white;
 }
 
+.bg-primary {
+  background: #f7c08a;
+  color: #333;
+}
+
+.bg-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
 .btn-light {
   background: #f4f4f4;
   color: #333;
@@ -67,6 +77,10 @@ p {
 .btn:hover {
   background: #f7c08a;
   color: #333;
+}
+
+.clr {
+  clear: both;
 }
 
 /* Navbar */
@@ -167,4 +181,25 @@ nav {
 
 .read-more p {
   padding-bottom: 30px;
+}
+
+/* Features */
+.box {
+  float: left;
+  width: 33.3%;
+  text-align: center;
+  padding: 50px;
+}
+
+.box i {
+  margin-bottom: 10px;
+}
+
+/* Footer */
+
+.main-footer {
+  background: #444;
+  color: #FFF;
+  padding: 20px;
+  text-align: center;
 }
