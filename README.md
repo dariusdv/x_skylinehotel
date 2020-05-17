@@ -1,3 +1,5 @@
 # skylinehotel
+\#playground
 
-Playground. Hotel website built with HTML and CSS.
+Hotel website built with HTML and CSS.
+
